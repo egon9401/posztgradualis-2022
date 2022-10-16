@@ -1,7 +1,8 @@
 public class Main {
+
+    //Muveletek probalgatasa
+
     public static void main(String[] args) {
-        byte a = 122;
-        byte b = 30;
-        byte osszeg = (a+b);
+        double
     }
 }
