@@ -7,9 +7,9 @@ public class Main {
         int iElsoSzam = 10;
         int iMasodikSzam = 0;
 
-        if ( iMasodikSzam > 4) {
+        if (iMasodikSzam > 4) {
             System.out.println("A szam nem jo");
-        }else if ( iMasodikSzam < 0) {
+        } else if (iMasodikSzam < 0) {
             System.out.println("A szam nem jo");
         } else {
             System.out.println(iElsoSzam << iMasodikSzam);
@@ -17,7 +17,7 @@ public class Main {
             System.out.println(iElsoSzam >>> iMasodikSzam);
         }
 
-        }
-
-
     }
+
+
+}
