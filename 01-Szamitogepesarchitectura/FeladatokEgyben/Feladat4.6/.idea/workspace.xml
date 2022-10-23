@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="295883a9-a0a9-45fa-acc6-016830b8cdd0" name="Changes" comment="">
+    <list default="true" id="3efe9cc7-d227-4795-8473-0cb36c235123" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Feladat3.1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat4.6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Feladat6.1/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Feladat6.2/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Feladat6.2/.idea/misc.xml" afterDir="false" />
@@ -12,7 +12,7 @@
       <change afterPath="$PROJECT_DIR$/../Feladat6.2/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Feladat6.2/Feladat6.2.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Feladat6.2/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Feladat1.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat1.2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Feladat6.1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat6.1/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -26,28 +26,28 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GDCMsGg9XgXTu61fYFCCTIwrxJ" />
+  <component name="ProjectId" id="2GTsPk89C4EhfgJYTTEnkNf6oqS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="295883a9-a0a9-45fa-acc6-016830b8cdd0" name="Changes" comment="" />
-      <created>1665913723689</created>
+      <changelist id="3efe9cc7-d227-4795-8473-0cb36c235123" name="Changes" comment="" />
+      <created>1666423887666</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665913723689</updated>
-      <workItem from="1665913724880" duration="7176000" />
+      <updated>1666423887666</updated>
+      <workItem from="1666423888881" duration="3479000" />
     </task>
     <servers />
   </component>
