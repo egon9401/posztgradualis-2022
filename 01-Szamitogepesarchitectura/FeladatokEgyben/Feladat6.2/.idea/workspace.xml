@@ -2,18 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="90c68d6b-398b-45ad-a527-d0aded240aae" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Feladat3.1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat4.6/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat6.1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Feladat6.2.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat3.11/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat3.11/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat3.11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat3.11/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat3.11/Feladat3.11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat3.11/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat3.111/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.4/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.4/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.4/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.4/Feladat6.4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.4/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat8.1/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat8.1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat8.1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat8.1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat8.1/Feladat8.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat8.1/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Feladat1.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat1.2/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Feladat6.1/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat6.1/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Feladat3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat3.1/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Feladat4.6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat4.6/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +47,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false"
   }
 }]]></component>
@@ -47,7 +59,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1666517162256</updated>
-      <workItem from="1666517163533" duration="719000" />
+      <workItem from="1666517163533" duration="2249000" />
     </task>
     <servers />
   </component>
@@ -64,16 +76,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

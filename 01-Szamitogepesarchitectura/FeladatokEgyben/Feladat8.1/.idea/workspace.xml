@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="295883a9-a0a9-45fa-acc6-016830b8cdd0" name="Changes" comment="">
+    <list default="true" id="0489cbc1-22e9-4671-ada9-5788ccc21fe5" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../Feladat3.11/.idea/.gitignore" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Feladat3.11/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Feladat3.11/.idea/modules.xml" afterDir="false" />
@@ -15,13 +15,13 @@
       <change afterPath="$PROJECT_DIR$/../Feladat6.4/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Feladat6.4/Feladat6.4.iml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../Feladat6.4/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat8.1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat8.1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat8.1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat8.1/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat8.1/Feladat8.1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat8.1/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Feladat8.1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Feladat1.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat1.2/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Feladat3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat3.1/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Feladat4.6/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat4.6/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Feladat6.2/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat6.2/.idea/workspace.xml" afterDir="false" />
@@ -37,28 +37,29 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GDCMsGg9XgXTu61fYFCCTIwrxJ" />
+  <component name="ProjectId" id="2GXJkcq6IS2tPXSHkQwUMzpxxm5" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="295883a9-a0a9-45fa-acc6-016830b8cdd0" name="Changes" comment="" />
-      <created>1665913723689</created>
+      <changelist id="0489cbc1-22e9-4671-ada9-5788ccc21fe5" name="Changes" comment="" />
+      <created>1666529140731</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1665913723689</updated>
-      <workItem from="1665913724880" duration="7176000" />
+      <updated>1666529140731</updated>
+      <workItem from="1666529142044" duration="7421000" />
     </task>
     <servers />
   </component>
@@ -75,5 +76,16 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Main.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
