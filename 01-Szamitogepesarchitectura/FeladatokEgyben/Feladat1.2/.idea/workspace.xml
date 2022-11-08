@@ -1,7 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="295883a9-a0a9-45fa-acc6-016830b8cdd0" name="Changes" comment="" />
+    <list default="true" id="295883a9-a0a9-45fa-acc6-016830b8cdd0" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6/Feladat6.6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6uj/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6uj/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6uj/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6uj/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6uj/Feladat6.6uj.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.6uj/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.7/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.7/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.7/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.7/Feladat6.7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat6.7/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Feladat3.1/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat3.1/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
