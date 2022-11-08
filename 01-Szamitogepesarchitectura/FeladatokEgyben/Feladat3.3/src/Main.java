@@ -17,7 +17,7 @@ public class Main {
             case 1:
                 System.out.println("Adja meg a kor sugarat:");
                 int korsugara = sc.nextInt();
-                double eredmeny1 = pi * korsugara * korsugara;
+                double eredmeny1 = pi * (korsugara * korsugara);
                 System.out.println(eredmeny1);
                 break;
             case 2:
