@@ -9,7 +9,6 @@ public class Main {
 
         File konyvtar = konyvtarEleresiUtvonal.toFile();
         File[] konyvtarbejegyzesek = konyvtar.listFiles();
-        File[] konyvtarFajlbejegzesek = konyvtar.getAbsoluteFile().listFiles();
 
 
 
