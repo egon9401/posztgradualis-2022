@@ -2,25 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec4bf032-d646-4b45-9ba9-fb15cbdb0f91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Feladat12.3/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat12.3/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat12.3/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat12.3/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat12.3/Feladat12.3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat12.3/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Feladat14.1/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Feladat8.5.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VizsgaMinta1/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VizsgaMinta1/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VizsgaMinta1/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VizsgaMinta1/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VizsgaMinta1/VizsgaMinta1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../VizsgaMinta1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.2/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.2/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.2/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.2/Feladat14.2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.4/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
