@@ -2,7 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ec4bf032-d646-4b45-9ba9-fb15cbdb0f91" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../Feladat14.5/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat MergeSort/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.6/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.6/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.6/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.6/Feladat14.6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat14.6/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat5.Palindrom rekurzioval/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat5.Palindrom rekurzioval/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat5.Palindrom rekurzioval/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat5.Palindrom rekurzioval/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat5.Palindrom rekurzioval/Feladat5.Palindrom rekurzioval.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Feladat5.Palindrom rekurzioval/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Feladat13.1/bemenet.rtf" beforeDir="false" afterPath="$PROJECT_DIR$/../Feladat13.1/bemenet.rtf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
