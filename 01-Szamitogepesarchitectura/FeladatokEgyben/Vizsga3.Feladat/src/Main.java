@@ -47,9 +47,8 @@ public class Main {
      */
     private static String[] removePlayerFromTeam(String[] team, int playerPosToRemove) {
         String[] ret = new String[0];
-        for (int i = 0; i < team.length; i++) {
-            team.length[i] = playerPosToRemove;
-            ret = team - team.length[i];
+        for (int i = 0; i < team.length - 1; i++) {
+            ret[i] = team[i];
 
         }
 
