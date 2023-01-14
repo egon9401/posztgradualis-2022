@@ -1,6 +1,9 @@
 public class Main {
     public static void main(String[] args) {
 
+        //4.Írjon olyan függvényt egy láncolt lista típusra,
+        // ami két pozíció paramétert kap és a két adott helyen lévő elemet felcseréli a listában.
+
         LancoltLista lista = new LancoltLista();
         LancoltLista lista2 = new LancoltLista();
 
@@ -9,7 +12,18 @@ public class Main {
         lista.PozicioraBeszur(1, 7); // -5 7 2
         lista.PozicioraBeszur(3, 3);
 
-        System.out.println(lista.Hossz());
+        for (int i = 0; i < lista.Hossz(); i++) {
+            System.out.print("  " + lista.AdottPozicioLekerdezese(i) + "  ");
+        }
+        System.out.println();
+
+        lista.PozicioCsere(1,3 );
+
+        for (int i = 0; i < lista.Hossz(); i++) {
+            System.out.print("  " + lista.AdottPozicioLekerdezese(i) + "  ");
+        }
+
+        System.out.println();
         System.out.println(lista.Hossz());
 
         lista.AdottPozicionErtekadas(0, 0);
@@ -133,4 +147,28 @@ class LancoltLista {
             beszurandoElotti.SetKovetkezo(ujElem);
         }
     }
+
+    public void PozicioCsere(int poz1, int poz2) {
+        Lancszem pozitio1 = this.elso;
+        Lancszem pozitio2 = this.elso;
+
+
+
+        for (int i = 0; i < poz1; i++) {
+            pozitio1 = pozitio1.GetKovetkezo();
+        }
+        for (int i = 0; i < poz2; i++) {
+            pozitio2 = pozitio2.GetKovetkezo();
+        }
+
+        pozitio1.SetAdat(pozitio2.GetAdat());
+        pozitio2.SetAdat(pozitio1.GetAdat());
+
+
+
+
+
+    }
+
+
 }
